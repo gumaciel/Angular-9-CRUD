@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Black Pen",
+      "price": 1.29
+    },
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 120.21
+    },
+    {
+      "id": 3,
+      "name": "Cellphone",
+      "price": 50.91
+    }
+  ]
+}
